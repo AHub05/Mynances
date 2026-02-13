@@ -1,3 +1,5 @@
+package domain;
+
 import java.math.BigDecimal;
 
 public class CheckingAccount extends Account {
